@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CHeSCFixedPS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/CHeSCFixedPS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

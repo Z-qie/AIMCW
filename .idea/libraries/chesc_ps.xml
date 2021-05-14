@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="chesc-ps">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/chesc-ps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/chesc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/PS.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/VisualiserLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
